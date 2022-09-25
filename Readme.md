@@ -18,8 +18,5 @@ I am Adarsh Maurya.<br>Apart from being a student, I am also working as a Freela
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sanakihacker&icon=0&color=0)](https://visitcount.itsvg.in)
