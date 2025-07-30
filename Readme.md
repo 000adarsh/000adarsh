@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Adarsh Maurya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adarshmaurya9118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Connect-blue?logo=web)](https://000adarshmaurya.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Connect-blue?logo=web)](https://000adarsh.netlify.app/)
 
 ---
 
