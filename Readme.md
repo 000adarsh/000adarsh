@@ -11,17 +11,17 @@ I'm Adarsh Maurya, a passionate and driven **Full-Stack Web Developer** currentl
 
 - 🏆 **Awarded Best Project** at a college-level coding event, fueling my passion for innovation.
 - 🥈 **Campus Ambassador** at The Boring Education—engaging and empowering the student tech community.
-- 🌐 **Open-Source Contributor** at GirlScript Summer of Code 2024 - Extended Edition, collaborating on projects that promote diversity and community in tech.
-- 🧑‍💻 **Startup Team Lead:** Led teams to deliver products from concept to launch, navigating tight deadlines and fostering collaborative growth.
+- 🌐 **Open-Source Contribution** at GirlScript Summer of Code 2024 - Extended Edition, collaborating on projects that promote diversity and community in tech.
 - 🔭 **Continuous Learner:** Always exploring new technologies, frameworks, and best practices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, JavaScript, HTML5, CSS3, Responsive Web Design
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Languages:** JavaScript, Python
+- **Frontend:** React.js, Vue.js, HTML5, TailwindCSS, Responsive Web Design
+- **Backend:** Node.js, Express.js, FastAPI
+- **Database:** MongoDB, Pgsql
 - **Other Tools:** Git & GitHub, VS Code, Postman, Docker (basics)
 - **Methodologies:** Agile, Scrum
 
